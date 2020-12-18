@@ -1,0 +1,12 @@
+{
+  "func": {
+    "user": {
+      "http:/apis/user": [
+        {
+          "time": 1608262243756,
+          "data": "{\n  \"headers\": {\n    \"Content-Type\": \"text/json\"\n  },\n  \"method\": \"GET\",\n  \"query\": {\n    \"q\": \"test\"\n  },\n  \"path\": \"/apis/user\",\n  \"body\": {\n    \"name\": \"midway faas\"\n  }\n}"
+        }
+      ]
+    }
+  }
+}
